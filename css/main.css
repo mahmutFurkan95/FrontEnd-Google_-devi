@@ -1,0 +1,22 @@
+table{
+    width:90%;
+}
+.Search-web-form{ /*----------------> Searcm form*/
+    background-color: #EEEEEE;
+
+}
+.Special-searches{/* ---------------> Bottom leftmost box*/
+    background-color: #7EE5DA;
+}
+.help{/* ---------------------------> Bottom middle box*/
+    background-color: #70CCC2;
+    font-size: 0.8em;
+}
+.get-google{/* ---------------------> Bottom rightmost box*/
+    background-color: #62B3AA;
+    font-size: 0.8em;
+}
+footer{
+    font-size: 0.8em;
+    margin-top:15px;
+}
